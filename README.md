@@ -34,6 +34,10 @@ $ python ios_backup_dump.py dump_files 16cbfa4aa6182d5981149393b2d6fe77d4cfa180 
 # dumped to /tmp/AppDomain/com.apple.DemoApp/
 ```
 
+```bash
+$ python ios_backup_dump.py dump_files 16cbfa4aa6182d5981149393b2d6fe77d4cfa180 all /tmp
+```
+
 ## Usage
 
 ```
